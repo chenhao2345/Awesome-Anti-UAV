@@ -10,13 +10,13 @@ This repository provides a concise and continuously updated resource for researc
 
 A collection of publicly available datasets for UAV classification, detection, and tracking.
 
-| Dataset | Task | Modality | Sequences | Frames | Year |
-|---|---|---|---:|---:|---:|
-| [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) | D, T | RGB, IR | 318 | 297K | 2021 |
-| [Anti-UAV410](https://github.com/ZhaoJ9014/Anti-UAV) | D, T | IR | 410 | 438K | 2023 |
-| [Anti-UAV600](https://github.com/ZhaoJ9014/Anti-UAV) | D, T | IR | 600 | 723K | 2023 |
-| [MMAUD](https://github.com/ntu-aris/MMAUD) | C, D, T | RGB, Audio, Radar, LiDAR | 50 | 45K | 2024 |
-| [UAV-CB](https://github.com/hye999/UAV-CB) | D | RGB, IR | — | 3,393 pairs | 2026 |
+| Dataset | Task | Modality | Scale | Year |
+|---|---|---|---|---:|
+| [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) | D, T | RGB, IR | 318 sequences / 297K frames | 2021 |
+| [Anti-UAV410](https://github.com/HwangBo94/Anti-UAV410) | D, T | IR | 410 sequences / 438K frames | 2023 |
+| [Anti-UAV600](https://github.com/ZhaoJ9014/Anti-UAV) | D, T | IR | 600 sequences / 723K frames | 2023 |
+| [MMAUD](https://ntu-aris.github.io/MMAUD/) | C, D, T | RGB, Audio, Radar, LiDAR | 50 sequences / 45K frames | 2024 |
+| [UAV-CB](https://github.com/hye999/UAV-CB) | D | RGB-T | 3,393 pairs | 2026 |
 
 **Task:** C = Classification, D = Detection, T = Tracking
 
