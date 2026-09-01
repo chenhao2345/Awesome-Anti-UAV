@@ -10,12 +10,14 @@ This repository provides a concise and continuously updated resource for researc
 
 A collection of publicly available datasets for UAV classification, detection, and tracking.
 
-| Dataset           | Task                 | Modality | Scale | Year |
-| ----------------- | -------------------- | -------- | ----- | ---- |
-| [Dataset Name](#) | Detection            | RGB      | —     | 2025 |
-| [Dataset Name](#) | Detection & Tracking | RGB + IR | —     | 2024 |
-| [Dataset Name](#) | Classification       | RF       | —     | 2023 |
-| [Dataset Name](#) | Detection            | RGB      | —     | 2022 |
+| Dataset | Task | Modality | Sequences | Frames | Year |
+|---|---|---|---:|---:|---:|
+| [Anti-UAV600](#) | D, T | IR | 600 | 723K | 2023 |
+| [Anti-UAV410](#) | D, T | IR | 410 | 438K | 2024 |
+| [MMAUD](#) | C, D, T | RGB, Audio, Radar, LiDAR | 50 | 45K | 2024 |
+| [RGBT-Tiny](#) | D, T | RGB, IR | 115 | 93K | 2025 |
+
+**Task:** C = Classification, D = Detection, T = Tracking
 
 [**View all datasets →**](datasets.md)
 
