@@ -12,9 +12,11 @@ A collection of publicly available datasets for UAV classification, detection, a
 
 | Dataset | Task | Modality | Sequences | Frames | Year |
 |---|---|---|---:|---:|---:|
+| [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) | D, T | RGB, IR | 318 | 297K | 2021 |
+| [Anti-UAV410](https://github.com/ZhaoJ9014/Anti-UAV) | D, T | IR | 410 | 438K | 2023 |
 | [Anti-UAV600](https://github.com/ZhaoJ9014/Anti-UAV) | D, T | IR | 600 | 723K | 2023 |
-| [Anti-UAV410](https://github.com/ZhaoJ9014/Anti-UAV) | D, T | IR | 410 | 438K | 2024 |
 | [MMAUD](https://github.com/ntu-aris/MMAUD) | C, D, T | RGB, Audio, Radar, LiDAR | 50 | 45K | 2024 |
+| [UAV-CB](https://github.com/hye999/UAV-CB) | D | RGB, IR | — | 3,393 pairs | 2026 |
 
 **Task:** C = Classification, D = Detection, T = Tracking
 
