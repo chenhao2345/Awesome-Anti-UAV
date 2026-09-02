@@ -17,6 +17,7 @@ A collection of publicly available datasets for UAV classification, detection, a
 | [Anti-UAV600](https://github.com/ZhaoJ9014/Anti-UAV) | D, T | IR | 600 sequences / 723K frames | 2023 |
 | [MMAUD](https://ntu-aris.github.io/MMAUD/) | C, D, T | RGB, Audio, Radar, LiDAR | 50 sequences / 45K frames | 2024 |
 | [MM-UAV](https://xuefeng-zhu5.github.io/MM-UAV/) | T | RGB, IR, Event | 1,321 sequences / 2.8M frames | 2025 |
+| [Tri-Modal Anti-UAV](https://github.com/eulerbaby123/Tri-Modal-Anti-UAV) | D | RGB, IR, Event | 1,060 triplets | 2025 |
 | [UAV-CB](https://github.com/hye999/UAV-CB) | D | RGB, IR | 3,393 pairs | 2026 |
 
 **Task:** C = Classification, D = Detection, T = Tracking
