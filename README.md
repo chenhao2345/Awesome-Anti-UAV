@@ -58,6 +58,7 @@ Research on UAV/drone detection using RGB, infrared, radar, RF, acoustic, and mu
 | [Adaptive 3D Perception for Small Aerial Targets Under Sparse Sampling via Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2026/html/Yuan_Adaptive_3D_Perception_for_Small_Aerial_Targets_Under_Sparse_Sampling_CVPR_2026_paper.html) | CVPR 2026 | LiDAR | MMAUD | — |
 | [UAV-CB: A Complex-Background RGB-T Dataset and Local Frequency Bridge Network for UAV Detection](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_UAV-CB_A_Complex-Background_RGB-T_Dataset_and_Local_Frequency_Bridge_Network_CVPR_2026_paper.html) | CVPR 2026 | RGB, IR | UAV-CB | [GitHub](https://github.com/hye999/UAV-CB) |
 | [UAV-DETR: DETR for Anti-Drone Target Detection](https://arxiv.org/abs/2603.22841) | arXiv 2026 | RGB | DUT-ANTI-UAV | [GitHub](https://github.com/wd-sir/UAVDETR) |
+
 [**View all detection papers →**](detection.md)
 
 ---
