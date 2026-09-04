@@ -46,6 +46,7 @@ Research on UAV/drone detection using RGB, infrared, radar, RF, acoustic, and mu
 
 | Paper            | Venue  | Modality | Dataset | Code |
 | ---------------- | ------ | -------- | ------- | ---- |
+| [Fully Convolutional Network-Based Fast UAV Detection in Pulse Doppler Radar](https://doi.org/10.1109/TGRS.2024.3358956) | TGRS 2024 | Radar | Pulse-Doppler Radar | — |
 | [Multi-Modal UAV Detection, Classification and Tracking Algorithm](https://arxiv.org/abs/2405.16464) | CVPRW 2024 | RGB, Audio, Radar, LiDAR | MMAUD | [GitHub](https://github.com/dtc111111/Multi-Modal-UAV) |
 | [SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection](https://doi.org/10.1109/TGRS.2024.3471786) | TGRS 2024 | IR | Infrared UAV Sequences | [GitHub](https://github.com/IVPLabs/SCINet) |
 | [Visible and Clear: Finding Tiny Objects in Difference Map](https://arxiv.org/abs/2405.11276) | ECCV 2024 | RGB | DroneSwarms | [GitHub](https://github.com/Hiyuur/SR-TOD) |
