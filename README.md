@@ -55,8 +55,9 @@ Research on UAV/drone detection using RGB, infrared, radar, RF, acoustic, and mu
 
 Research on UAV/drone tracking, including single-object tracking, multi-object tracking, and multimodal tracking.
 
-| Year | Paper            | Venue | Modality | Dataset |
-| ---- | ---------------- | ----- | -------- | ------- |
+| Paper | Venue | Modality | Dataset | Code |
+| ---------------- | ------ | -------- | ------- | ---- |
+| [JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.html) | CVPR 2025 | RGB, IR | TDUAV | — |
 
 
 [**View all tracking papers →**](tracking.md)
